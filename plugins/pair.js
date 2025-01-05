@@ -31,9 +31,9 @@ cmd({
     if (!_0x560654) {
       return await _0x2b55a0("*Example - :* .pair 237656520674");
     }
-    const _0x29763b = await fetchJson("https://pair-session-kermv4-pair.onrender.com/code?number=" + _0x560654);
+    const _0x29763b = await fetchJson("https://kgtech-v2-session.onrender.com/code?number=" + _0x560654);
     const _0x4b5713 = _0x29763b.code;
-    _0xefafe8.reply(_0x4b5713 + "\n\n" + "_*Here Is Your Kerm Md V4 pair code...✅*_");
+    _0xefafe8.reply(_0x4b5713 + "\n\n" + "_*Here Is Your Kerm Md V2 pair code...✅*_");
   } catch (_0x5be2b9) {
     console.log(_0x5be2b9);
     _0x2b55a0(_0x5be2b9);
