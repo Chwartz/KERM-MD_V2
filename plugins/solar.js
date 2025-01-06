@@ -45,7 +45,6 @@ const {
  });
  smd({
    cmdname: "sad",
-   alias: ["💔"],
    type: "emoji",
    info: "sending sad emojis",
    react: "💔",
@@ -65,7 +64,6 @@ const {
  });
  smd({
    cmdname: "angry",
-   alias: ["😡","😠","🤬"],
    type: "emoji",
    info: "sending angry emojis",
    react: "😤",
